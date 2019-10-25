@@ -414,5 +414,161 @@
     "linked_keg": null,
     "pinned": false,
     "outdated": false
+  },
+  {
+    "name": "VLC",
+    "full_name": "VLC",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "VLC is a free and open source cross-platform multimedia player",
+    "homepage": "https://www.videolan.org/",
+    "versions": {
+      "stable": "3.0.8",
+      "devel": null,
+      "head": null,
+      "bottle": true
+    },
+    "revision": 0,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 3,
+        "root_url": "https://get.videolan.org/vlc/",
+        "files": {
+          "64-bit": {
+            "url": "https://get.videolan.org/vlc/3.0.8/win64/vlc-3.0.8-win64.exe",
+            "sha256": ""
+          },
+          "32-bit": {
+            "url": "https://get.videolan.org/vlc/3.0.8/win32/vlc-3.0.8-win32.exe",
+            "sha256": null
+          },
+          "source": {
+            "url": "http://get.videolan.org/vlc/3.0.8/vlc-3.0.8.tar.xz",
+            "sha256": null
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [],
+    "dependencies": [],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
+  },
+  {
+    "name": "VS Code",
+    "full_name": "VS Code",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "Free. Built on open source. Runs everywhere.",
+    "homepage": "https://code.visualstudio.com",
+    "versions": {
+      "stable": "1.39",
+      "devel": null,
+      "head": null,
+      "bottle": true
+    },
+    "revision": 0,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 3,
+        "root_url": "https://vscode.cdn.azure.cn/stable/",
+        "files": {
+          "64-bit": {
+            "url": "https://vscode.cdn.azure.cn/stable/6ab598523be7a800d7f3eb4d92d7ab9a66069390/VSCodeSetup-x64-1.39.2.exe",
+            "sha256": ""
+          },
+          "32-bit": {
+            "url": "https://vscode.cdn.azure.cn/stable/6ab598523be7a800d7f3eb4d92d7ab9a66069390/VSCodeSetup-ia32-1.39.2.exe",
+            "sha256": null
+          },
+          "source": {
+            "url": null,
+            "sha256": null
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [],
+    "dependencies": [],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
+  },
+  {
+    "name": "Node.js",
+    "full_name": "Node.js",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.",
+    "homepage": "https://nodejs.org/en/",
+    "versions": {
+      "stable": "8.16.2",
+      "devel": null,
+      "head": null,
+      "bottle": true
+    },
+    "revision": 0,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 3,
+        "root_url": "https://nodejs.org/en/download/releases/",
+        "files": {
+          "64-bit": {
+            "url": "https://nodejs.org/download/release/v8.16.2/node-v8.16.2-x64.msi",
+            "sha256": ""
+          },
+          "32-bit": {
+            "url": "https://nodejs.org/download/release/v8.16.2/node-v8.16.2-x86.msi",
+            "sha256": null
+          },
+          "source": {
+            "url": "https://nodejs.org/download/release/v8.16.2/node-v8.16.2.tar.gz",
+            "sha256": null
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [],
+    "dependencies": [],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
   }
 ]
