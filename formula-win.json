@@ -1,0 +1,418 @@
+[
+  {
+    "name": "Wireshark",
+    "full_name": "Wireshark",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "Wireshark is a network traffic analyzer",
+    "homepage": "https://www.wireshark.org/",
+    "versions": {
+      "stable": "3.0.6",
+      "devel": "3.1.0",
+      "head": null,
+      "bottle": true
+    },
+    "revision": 0,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 3,
+        "root_url": "https://1.na.dl.wireshark.org",
+        "files": {
+          "64-bit": {
+            "url": "https://1.na.dl.wireshark.org/win64/Wireshark-win64-3.0.6.exe",
+            "sha256": ""
+          },
+          "32-bit": {
+            "url": "https://1.na.dl.wireshark.org/win32/Wireshark-win32-3.0.6.exe",
+            "sha256": ""
+          },
+          "source": {
+            "url": "https://1.na.dl.wireshark.org/src/wireshark-3.0.6.tar.xz",
+            "sha256": ""
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [],
+    "dependencies": [],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
+  },
+  {
+    "name": "Git",
+    "full_name": "Git",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "Git is a free and open source distributed version control system",
+    "homepage": "https://git-scm.com/",
+    "versions": {
+      "stable": "2.23.0",
+      "devel": null,
+      "head": null,
+      "bottle": true
+    },
+    "revision": 0,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 3,
+        "root_url": "https://github.com/git-for-windows/git",
+        "files": {
+          "64-bit": {
+            "url": "https://github.com/git-for-windows/git/releases/download/v2.23.0.windows.1/Git-2.23.0-64-bit.exe",
+            "sha256": ""
+          },
+          "32-bit": {
+            "url": "https://github.com/git-for-windows/git/releases/download/v2.23.0.windows.1/Git-2.23.0-32-bit.exe",
+            "sha256": ""
+          },
+          "source": {
+            "url": "https://github.com/git-for-windows/git",
+            "sha256": ""
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [],
+    "dependencies": [],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
+  },
+  {
+    "name": "Sublime",
+    "full_name": "Sublime Text 3",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "Sublime Text 3 is the current version of Sublime Text",
+    "homepage": "http://www.sublimetext.com/",
+    "versions": {
+      "stable": "3.2.2",
+      "devel": null,
+      "head": null,
+      "bottle": true
+    },
+    "revision": 0,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 3,
+        "root_url": "https://download.sublimetext.com",
+        "files": {
+          "64-bit": {
+            "url": "https://download.sublimetext.com/Sublime%20Text%20Build%203211%20x64%20Setup.exe",
+            "sha256": ""
+          },
+          "32-bit": {
+            "url": "https://download.sublimetext.com/Sublime%20Text%20Build%203211%20Setup.exe",
+            "sha256": ""
+          },
+          "source": {
+            "url": null,
+            "sha256": null
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [],
+    "dependencies": [],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
+  },
+  {
+    "name": "TeamViewer",
+    "full_name": "TeamViewer",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "Establish incoming and outgoing remote desktop and computer-to-computer connections",
+    "homepage": "https://www.teamviewer.cn/cn/",
+    "versions": {
+      "stable": "14.7.1965",
+      "devel": null,
+      "head": null,
+      "bottle": true
+    },
+    "revision": 0,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 3,
+        "root_url": "https://download.teamviewer.com/download",
+        "files": {
+          "64-bit": {
+            "url": null,
+            "sha256": null
+          },
+          "32-bit": {
+            "url": "https://download.teamviewer.com/download/TeamViewer_Setup.exe",
+            "sha256": ""
+          },
+          "source": {
+            "url": null,
+            "sha256": null
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [],
+    "dependencies": [],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
+  },
+  {
+    "name": "msys2",
+    "full_name": "msys2",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "MSYS2 is a software distro and building platform for Windows",
+    "homepage": "http://www.msys2.org/",
+    "versions": {
+      "stable": "20190524",
+      "devel": null,
+      "head": null,
+      "bottle": true
+    },
+    "revision": 0,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 3,
+        "root_url": "http://repo.msys2.org/distrib",
+        "files": {
+          "64-bit": {
+            "url": "http://repo.msys2.org/distrib/x86_64/msys2-x86_64-20190524.exe",
+            "sha256": null
+          },
+          "32-bit": {
+            "url": "http://repo.msys2.org/distrib/i686/msys2-i686-20190524.exe",
+            "sha256": ""
+          },
+          "source": {
+            "url": "https://github.com/msys2",
+            "sha256": null
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [],
+    "dependencies": [],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
+  },
+  {
+    "name": "VirtualBox",
+    "full_name": "VirtualBox",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.",
+    "homepage": "https://www.virtualbox.org",
+    "versions": {
+      "stable": "6.0.14",
+      "devel": null,
+      "head": null,
+      "bottle": true
+    },
+    "revision": 0,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 3,
+        "root_url": "https://download.virtualbox.org/virtualbox",
+        "files": {
+          "64-bit": {
+            "url": "https://download.virtualbox.org/virtualbox/6.0.14/VirtualBox-6.0.14-133895-Win.exe",
+            "sha256": "a24b3b3fd406766c409e5e2e8cf6d88cc7a50ad6694925e640c25e0d8d913063"
+          },
+          "32-bit": {
+            "url": null,
+            "sha256": null
+          },
+          "source": {
+            "url": "https://download.virtualbox.org/virtualbox/6.0.14/VirtualBox-6.0.14.tar.bz2",
+            "sha256": "5e12b14f0c38bf195d9592d76a9e0a128df2d38cd77c26ce5b5488397715dd0c"
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [],
+    "dependencies": [],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
+  },
+  {
+    "name": "Postman",
+    "full_name": "Postman",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "The Collaboration Platform for API Development",
+    "homepage": "https://www.getpostman.com/",
+    "versions": {
+      "stable": "7.9.0",
+      "devel": null,
+      "head": null,
+      "bottle": true
+    },
+    "revision": 0,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 3,
+        "root_url": "https://dl.pstmn.io/download/latest",
+        "files": {
+          "64-bit": {
+            "url": "https://dl.pstmn.io/download/latest/win64",
+            "sha256": "a24b3b3fd406766c409e5e2e8cf6d88cc7a50ad6694925e640c25e0d8d913063"
+          },
+          "32-bit": {
+            "url": "https://dl.pstmn.io/download/latest/win32",
+            "sha256": null
+          },
+          "source": {
+            "url": null,
+            "sha256": null
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [],
+    "dependencies": [],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
+  },
+  {
+    "name": "Charles",
+    "full_name": "Charles",
+    "oldname": null,
+    "aliases": [],
+    "versioned_formulae": [],
+    "desc": "Charles is an HTTP proxy / HTTP monitor / Reverse Proxy",
+    "homepage": "https://www.charlesproxy.com/",
+    "versions": {
+      "stable": "4.5.1",
+      "devel": null,
+      "head": null,
+      "bottle": true
+    },
+    "revision": 0,
+    "version_scheme": 0,
+    "bottle": {
+      "stable": {
+        "rebuild": 3,
+        "root_url": "https://www.charlesproxy.com/assets/release/",
+        "files": {
+          "64-bit": {
+            "url": "https://www.charlesproxy.com/assets/release/4.5.1/charles-proxy-4.5.1-win64.msi",
+            "sha256": ""
+          },
+          "32-bit": {
+            "url": null,
+            "sha256": null
+          },
+          "source": {
+            "url": null,
+            "sha256": null
+          }
+        }
+      }
+    },
+    "keg_only": false,
+    "bottle_disabled": false,
+    "options": [],
+    "build_dependencies": [],
+    "dependencies": [],
+    "recommended_dependencies": [],
+    "optional_dependencies": [],
+    "uses_from_macos": [],
+    "requirements": [],
+    "conflicts_with": [],
+    "caveats": null,
+    "installed": [],
+    "linked_keg": null,
+    "pinned": false,
+    "outdated": false
+  }
+]
